@@ -1,1 +1,2 @@
-# UDPServer_Client
+JAVA SOCKET PROGRAMMING 
+UDP Server - Client Application
