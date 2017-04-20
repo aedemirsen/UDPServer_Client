@@ -1,2 +1,2 @@
 JAVA SOCKET PROGRAMMING 
-UDP Server - Client Application
+Basic UDP Server - Client Communication Application
